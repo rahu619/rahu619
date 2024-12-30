@@ -13,17 +13,17 @@ rahu619@github:~$ ./welcome.sh
                 ||     ||
 ```
 
-<img align="left" src="https://cdn.pixabay.com/photo/2022/12/22/18/49/forest-7672785_1280.jpg" alt="calm" width="320" /> 
+<img align="left" src="https://cdn.pixabay.com/photo/2022/12/22/18/49/forest-7672785_1280.jpg" alt="calm" width="340" /> 
 
 ```
 rahu619@github
 -------------------------
 🧑‍💻 .NET Developer dabbling in TypeScript magic  
 🌟 Main languages: C#, JS/TypeScript  
-🐒 Love ASCII art  
+🐒 Loves ASCII art  
 🚀 Dreaming of mastering Azure DevOps
-🍕🍔 Devoted pizza and burger aficionado  
-🎮 Gaming enthusiast (especially WWE showdowns!)  
+🍕 Devoted pizza aficionado  
+🎮 Gaming enthusiast 
 
 ```
 
