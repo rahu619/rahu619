@@ -18,10 +18,7 @@ rahu619@github:~$ ./welcome.sh
 ```
 rahu619@github
 -------------------------
-🧑‍💻 .NET Developer dabbling in TypeScript magic  
-🌟 Main languages: C#, JS/TypeScript  
 🐒 Loves ASCII art  
-🚀 Dreaming of mastering Azure DevOps
 🍕 Devoted pizza aficionado  
 🎮 Gaming enthusiast 
 
