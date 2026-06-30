@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7CAC9&center=true&vCenter=true&width=500&lines=Hello+World!+%F0%9F%91%8B;Professional+over-engineer.;Chasing+bugs+%26+issues+%F0%9F%90%B8;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7CAC9&center=true&vCenter=true&width=500&lines=Hello+World!+%F0%9F%91%8B;Professional+over-engineer.;" />
 </p>
 
 ---
@@ -16,7 +16,7 @@
 class Developer:
     def __init__(self):
         self.name = "rahu619"
-        self.interests = ["ASCII art", "open source"]
+        self.interests = ["ASCII art", "Open source"]
         self.motto = "Chasing bugs, issues, and everything in between"
     
     def say_hi(self):
