@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6F61,50:6B5B95,100:88B04B&height=180&section=header&text=rahu619&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6F61,50:6B5B95,100:88B04B&height=180&section=header&text=&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32" />
 </p>
 
 <!-- Typing SVG -->
@@ -15,7 +15,7 @@
 ```python
 class Developer:
     def __init__(self):
-        self.name = "rahu619"
+        self.name = "Rahul"
         self.interests = ["ASCII art", "Open source"]
         self.motto = "Building, breaking, and occasionally over-engineering"
     
