@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7CAC9&center=true&vCenter=true&width=500&lines=Hello+World!+%F0%9F%91%8B;Professional+over-engineer.;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7CAC9&center=true&vCenter=true&width=500&lines=Hello+World!;" />
 </p>
 
 ---
@@ -17,10 +17,10 @@ class Developer:
     def __init__(self):
         self.name = "rahu619"
         self.interests = ["ASCII art", "Open source"]
-        self.motto = "Chasing bugs, issues, and everything in between"
+        self.motto = "Building, breaking, and occasionally over-engineering"
     
     def say_hi(self):
-        print("Welcome to my GitHub! Feel free to explore.")
+        print("Hi!")
 ```
 
 
